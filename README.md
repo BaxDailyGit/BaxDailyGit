@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ajoumax
 - 👀 I’m interested in machine learning
-- 🌱 I’m currently learning machine learning
 - 
 - 📫 email: qortmdwls2775@naver.com
 -    call number : 010-2127-8387
