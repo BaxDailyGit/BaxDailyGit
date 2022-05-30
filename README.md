@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ajoumax
 - 👀 I’m interested in machine learning
 -   저는 현재 4급 보충역(미필) 신분이며 산업기능요원을 희망합니다.
+-   1998년생 수원(아주대)거주
 - 📫 email: qortmdwls2775@naver.com
 -    call number : 010-2127-8387
 
