@@ -1,4 +1,3 @@
-- 👀 I’m interested in machine learning
 -   현재 4급 보충역(미필) 신분이며 산업기능요원을 희망합니다.
 -   1998년생 수원 거주
 -   Ajou Univ (Major: Physics, software)
