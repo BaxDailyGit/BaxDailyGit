@@ -4,7 +4,7 @@
 - 📫 email: qortmdwls2775@naver.com
 -    call number : 010-2127-8387
 -    캐글: https://www.kaggle.com/baekseungjinajmax
--    데이콘:
+-    데이콘: https://dacon.io/myprofile/443643/home
 
 <!---
 ajoumax/ajoumax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
