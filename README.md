@@ -1,4 +1,4 @@
--   대학생 막학기를 남겨두고있습니다.
+-   대학교 막학기를 남겨두고있습니다.
 -   1998년생 수원 거주
 -   Ajou Univ (Major: Physics, software)
 - 📫 email: qortmdwls2775@naver.com
