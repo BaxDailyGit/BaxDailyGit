@@ -4,6 +4,7 @@
 - 📫 email: qortmdwls2775@naver.com
 -    call number : 010-2127-8387
 -    캐글: https://www.kaggle.com/baekseungjinajmax
+-    벨로그: https://velog.io/@tmdwls8387
 
 <img src="https://img.shields.io/badge/AutoHotkey-5C3EE8?style=for-the-badge&logo=AutoHotkey&logoColor=black"><img src="https://img.shields.io/badge/VBA-FCC624?style=for-the-badge&logo=Microsoft Excel&logoColor=black"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <!---
