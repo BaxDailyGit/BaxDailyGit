@@ -7,7 +7,7 @@
   <sup>
     <h4>꾸준히 학습하기</h4>
   </sup>
-  <a href=""><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
+  <a href="https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61?pvs=4"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
   <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=blogger&logoColor=white"/></a>
 </h3>
 
