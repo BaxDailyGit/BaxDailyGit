@@ -11,7 +11,7 @@
   <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=blogger&logoColor=white"/></a>
 </h3>
 
--   대학교 마지막 학기를 다니고 있습니다.
+-   24년 2월에 학부를 졸업하였습니다.
 -   보충역으로 산업기능요원을 희망합니다(구직중)
 - 📫 email: tmdwls8387@ajou.ac.kr
 - ✍️ blog: https://baxdailygit.github.io/
