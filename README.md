@@ -14,9 +14,9 @@
 
 -   24년 2월에 학부를 졸업하였습니다.
 -   보충역으로 산업기능요원을 희망합니다(구직중)
-- 📫 email: tmdwls8387@ajou.ac.kr
-- ✍️ blog: https://baxdailygit.github.io/
-- 🙋‍♂️about me: https://baxdailygit.github.io/about/
+- 📫 이메일: tmdwls8387@ajou.ac.kr
+- ✍️ 블로그: https://baxdailygit.github.io/
+- 📑포트폴리오: https://baxdailygit.github.io/landing-page/pages
 
 <i>
 <details>
