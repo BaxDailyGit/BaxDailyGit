@@ -45,4 +45,4 @@
 
 
 
-<img src="https://ghchart.rshah.org/3333FF/baxdailygit" width=94%/>
+<img src="https://ghchart.rshah.org/2222CC/baxdailygit" width=94%/>
