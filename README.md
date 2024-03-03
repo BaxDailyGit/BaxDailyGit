@@ -8,15 +8,15 @@
   <sup>
     <h4>꾸준히 학습하기</h4>
   </sup>
-  <a href="https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61?pvs=4"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>
-  <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/Blog-171717?style=flat-square&logo=blogger&logoColor=white"/></a>
 </h3>
 
 -   24년 2월에 학부를 졸업하였습니다.
 -   보충역으로 산업기능요원을 희망합니다(구직중)
-- 📫 이메일: tmdwls8387@ajou.ac.kr
-- ✍️ 블로그: https://baxdailygit.github.io/
-- 📑포트폴리오: https://baxdailygit.github.io/landing-page/pages
+- <a href="tmdwls8387@ajou.ac.kr"><img src="https://img.shields.io/badge/이메일-171717?style=flat-square&logo=gmail&logoColor=white"/></a>: tmdwls8387@ajou.ac.kr
+- <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/블로그-171717?style=flat-square&logo=blogger&logoColor=white"/></a>: https://baxdailygit.github.io
+- <a href="https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61?pvs=4"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=notion&logoColor=white"/></a>: https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61
+- <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-171717?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages
+
 
 <i>
 <details>
