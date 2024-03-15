@@ -12,16 +12,16 @@
 
 -   24년 2월에 학부를 졸업하였습니다.
 -   보충역으로 산업기능요원을 희망합니다(구직중)
-- <img src="https://img.shields.io/badge/이메일-171717?style=flat-square&logo=gmail&logoColor=white"/>: tmdwls8387@ajou.ac.kr
-- <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/블로그-171717?style=flat-square&logo=blogger&logoColor=white"/></a>: https://baxdailygit.github.io
-- <a href="https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61?pvs=4"><img src="https://img.shields.io/badge/Resume-171717?style=flat-square&logo=notion&logoColor=white"/></a>: https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61
-- <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-171717?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages
+- <img src="https://img.shields.io/badge/이메일-0d1117?style=flat-square&logo=gmail&logoColor=white"/>: tmdwls8387@ajou.ac.kr
+- <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/블로그-0d1117?style=flat-square&logo=blogger&logoColor=white"/></a>: https://baxdailygit.github.io
+- <a href="https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61?pvs=4"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=notion&logoColor=white"/></a>: https://seungjinbaek.notion.site/1b072c03b8ff44dc825d082f4fdb0e61
+- <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-0d1117?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages
 
 
 <i>
 <details>
 <summary>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> 공부중인 Skills.
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="2%" /> Skills.
 </summary>
    <br>
 
@@ -34,14 +34,13 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=40% />
-</a>    
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=baxdailygit&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=59% />
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=baxdailygit&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true" width=59% /></a>
+
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=99%/>
-</a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=0d1117&hide_border=true&line=2569d9&color=2569d9" width=99%/></a>
 
 
 
