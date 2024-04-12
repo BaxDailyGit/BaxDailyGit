@@ -1,5 +1,5 @@
-0. [404WeFound](#0.-404WeFound)
-1. [기능 소개](#1.-기능-소개)
+0. [404WeFound](#0.404WeFound)
+1. [기능 소개](#1.기능-소개)
 2. [Architecture](#2.-Architecture)
 3. [Sitemap](#3.-Sitemap)
 
@@ -50,9 +50,9 @@
 <img src="https://ghchart.rshah.org/1922e9/baxdailygit" width=94%/>
 
 
-# 0. 404WeFound
+# 0.404WeFound
 
-## 1. 기능 소개
+## 1.기능 소개
 
 ## 2. Architecture
 
