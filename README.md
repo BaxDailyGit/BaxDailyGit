@@ -1,8 +1,3 @@
-0. [404WeFound](#404WeFound)
-1. [기능 소개](#기능-소개)
-2. [Architecture](#2.-Architecture)
-3. [Sitemap](#3.-Sitemap)
-
 <h2>
   Seugnjin Baek
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
@@ -49,11 +44,3 @@
 
 <img src="https://ghchart.rshah.org/1922e9/baxdailygit" width=94%/>
 
-
-# 404WeFound
-
-## 기능 소개
-
-## 2. Architecture
-
-## 3. Sitemap
