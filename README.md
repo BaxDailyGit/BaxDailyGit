@@ -15,7 +15,6 @@
 - <a href="https://baxdailygit.github.io/resume/"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=resend&logoColor=#181717"/></a>: https://baxdailygit.github.io/resume/
 - <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-0d1117?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages
 
-
 <i>
 <details>
 <summary>
@@ -29,8 +28,6 @@
 
 </i>
 
-
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
 
@@ -40,8 +37,4 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=0d1117&hide_border=true&line=2569d9&color=2569d9" width=99%/></a>
 
-
-
 <img src="https://ghchart.rshah.org/1922e9/baxdailygit" width=94%/>
-
-
