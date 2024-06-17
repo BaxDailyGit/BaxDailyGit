@@ -16,15 +16,18 @@
 - <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-0d1117?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages
 
 
+  Language & Framework<br>
+  <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/>
+  <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring security&logoColor=white"/><br>
 
+  Database<br>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic-square&logo=MySQL&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/>
 
- <img alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>  <img alt="fastapi" src ="https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white"/>  
-
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">  
-
-<img src="https://img.shields.io/badge/Amazon RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white">  <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">  <img src="https://img.shields.io/badge/amazon s3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">  
-
-
+  AWS<br>
+  <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
+  <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
+  <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
