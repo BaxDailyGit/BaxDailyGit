@@ -23,7 +23,7 @@
   Database<br>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic-square&logo=MySQL&logoColor=white"/>
   <img src="https://img.shields.io/badge/H2-4479A1?style=plastic-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/><br>
+  <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/>;&nbsp;;&nbsp;<br>
   AWS<br>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
