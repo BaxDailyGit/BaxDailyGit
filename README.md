@@ -31,12 +31,6 @@
 
   ### ⛏ Tools ⛏
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-1D63ED.svg?&style=plastic-square&logo=docker&logoColor=white"/><br>
-  
-  VCS<br>
-  <img alt="Github" src ="https://img.shields.io/badge/github-181717.svg?&style=plastic-square&logo=github&logoColor=white"/>
-  <br>
-  
-  IDE<br>
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=plastic-square&logo=intellijidea&logoColor=white"/>
   
   Co-work Tools<br>
