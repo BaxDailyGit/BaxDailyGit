@@ -30,7 +30,7 @@
   <img src="https://img.shields.io/badge/H2-4479A1?style=plastic-square&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/><br>
   AWS<br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
   <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
   <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>      
