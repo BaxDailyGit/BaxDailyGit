@@ -8,14 +8,20 @@
   </sup>
 </h3>
 
--   24년 2월에 학부를 졸업하였습니다.
--   보충역으로 산업기능요원을 희망합니다(구직중)
-- <img src="https://img.shields.io/badge/이메일-0d1117?style=flat-square&logo=gmail&logoColor=white"/>: tmdwls8387@ajou.ac.kr
-- <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/블로그-0d1117?style=flat-square&logo=blogger&logoColor=white"/></a>: https://baxdailygit.github.io
-- <a href="https://baxdailygit.github.io/resume/"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=resend&logoColor=#181717"/></a>: https://baxdailygit.github.io/resume/
-- <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-0d1117?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages
-
-
+<table>
+  <tr>
+    <th>
+      <div align=left>  
+-   24년 2월에 학부를 졸업하였습니다.<br>
+-   보충역으로 산업기능요원을 희망합니다(구직중)<br>
+- <img src="https://img.shields.io/badge/이메일-0d1117?style=flat-square&logo=gmail&logoColor=white"/>: tmdwls8387@ajou.ac.kr<br>
+- <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/블로그-0d1117?style=flat-square&logo=blogger&logoColor=white"/></a>: https://baxdailygit.github.io<br>
+- <a href="https://baxdailygit.github.io/resume/"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=resend&logoColor=#181717"/></a>: https://baxdailygit.github.io/resume/<br>
+- <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-0d1117?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages<br>
+      </div>
+    </th>
+    <th>
+      <div align=left>  
   Language & Framework<br>
   <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/>
   <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring security&logoColor=white"/><br>
@@ -34,7 +40,12 @@
   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=plastic-square&logo=thymeleaf&logoColor=white"/><br>
   Tools<br>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=plastic-square&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/erdcloud-000000?style=plastic-square&logo=icloud&logoColor=white"> 
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic-square&logo=figma&logoColor=white"> <br>
+  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic-square&logo=figma&logoColor=white"> <br>        
+      </div>
+    </th>
+  </tr>
+</table>
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
