@@ -28,12 +28,8 @@
   <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
   <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
   <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/>
-
-  Tools<br>
-  <img alt="Docker" src ="https://img.shields.io/badge/Docker-1D63ED.svg?&style=plastic-square&logo=docker&logoColor=white"/><br>
-  <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=plastic-square&logo=intellijidea&logoColor=white"/>
   
-  Co-work Tools<br>
+  Tools<br>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=plastic-square&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/erdcloud-000000?style=plastic-square&logo=icloud&logoColor=white"> 
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic-square&logo=figma&logoColor=white"> <br>
 
