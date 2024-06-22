@@ -12,12 +12,12 @@
   <tr>
     <th>
       <div align=left>  
--   24년 2월에 학부를 졸업하였습니다.<br>
--   보충역으로 산업기능요원을 희망합니다(구직중)<br>
-- <img src="https://img.shields.io/badge/이메일-0d1117?style=flat-square&logo=gmail&logoColor=white"/>: tmdwls8387@ajou.ac.kr<br>
-- <a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/블로그-0d1117?style=flat-square&logo=blogger&logoColor=white"/></a>: https://baxdailygit.github.io<br>
-- <a href="https://baxdailygit.github.io/resume/"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=resend&logoColor=#181717"/></a>: https://baxdailygit.github.io/resume/<br>
-- <a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-0d1117?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages<br>
+24년 2월에 학부를 졸업하였습니다.<br>
+보충역으로 산업기능요원을 희망합니다(구직중)<br>
+<img src="https://img.shields.io/badge/이메일-0d1117?style=flat-square&logo=gmail&logoColor=white"/>: tmdwls8387@ajou.ac.kr<br>
+<a href="https://baxdailygit.github.io/"><img src="https://img.shields.io/badge/블로그-0d1117?style=flat-square&logo=blogger&logoColor=white"/></a>: https://baxdailygit.github.io<br>
+<a href="https://baxdailygit.github.io/resume/"><img src="https://img.shields.io/badge/Resume-0d1117?style=flat-square&logo=resend&logoColor=#181717"/></a>: https://baxdailygit.github.io/resume/<br>
+<a href="https://baxdailygit.github.io/landing-page/pages"><img src="https://img.shields.io/badge/포트폴리오-0d1117?style=flat-square&logo=proton&logoColor=white"/></a>: https://baxdailygit.github.io/landing-page/pages<br>
       </div>
     </th>
     <th>
