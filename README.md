@@ -1,6 +1,6 @@
 <big><big>
-  Seugnjin Baek
-  <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
+  **Seugnjin Baek**
+  <a href="https://hits.sh/github.com/BaxDailyGit/">&nbsp;&nbsp;&nbsp;&nbsp;<img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
 </big></big>
 
 <table>
