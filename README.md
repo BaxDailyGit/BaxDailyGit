@@ -21,7 +21,7 @@
       </div>
     </th>
     <th>
-      <div align=left>  
+      <div align=right>  
   Language & Framework<br>
   <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/>
   <img alt="Spring Security" src ="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring security&logoColor=white"/><br>
