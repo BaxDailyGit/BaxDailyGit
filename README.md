@@ -32,15 +32,7 @@
   AWS<br>
   <img alt="Amazon EC2" src ="https://img.shields.io/badge/Amazon EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
   <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
-  <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
-  Front-End<br>
-  <img alt="HTML" src ="https://img.shields.io/badge/HTML-E34F26.svg?&style=plastic-square&logo=html5&logoColor=white"/>
-  <img alt="CSS" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=plastic-square&logo=css3&logoColor=white"/>
-  <img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=plastic-square&logo=javascript&logoColor=white"/>
-  <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=plastic-square&logo=thymeleaf&logoColor=white"/><br>
-  Tools<br>
-  <img src="https://img.shields.io/badge/JIRA-0052CC?style=plastic-square&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/erdcloud-000000?style=plastic-square&logo=icloud&logoColor=white"> 
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic-square&logo=figma&logoColor=white"> <br>        
+  <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>      
       </div>
     </th>
   </tr>
