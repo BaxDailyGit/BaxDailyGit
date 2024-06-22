@@ -29,14 +29,14 @@
   <img alt="Amazon RDS" src ="https://img.shields.io/badge/Amazon RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
   <img alt="Amazon S3" src ="https://img.shields.io/badge/Amazon S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/>
 
-  ### ⛏ Tools ⛏
+  Tools<br>
   <img alt="Docker" src ="https://img.shields.io/badge/Docker-1D63ED.svg?&style=plastic-square&logo=docker&logoColor=white"/><br>
   <img alt="Intellij IDEA" src ="https://img.shields.io/badge/Intellij Idea-000000.svg?&style=plastic-square&logo=intellijidea&logoColor=white"/>
   
   Co-work Tools<br>
   <img src="https://img.shields.io/badge/JIRA-0052CC?style=plastic-square&logo=Jira&logoColor=white"> <img src="https://img.shields.io/badge/erdcloud-000000?style=plastic-square&logo=icloud&logoColor=white"> 
   <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=plastic-square&logo=figma&logoColor=white"> <br>
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=plastic-square&logo=Discord&logoColor=white"> <img src="https://img.shields.io/badge/notion-white?style=plastic-square&logo=notion&logoColor=000000">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
 
