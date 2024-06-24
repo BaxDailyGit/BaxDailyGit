@@ -34,7 +34,14 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=flat&column=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+// @param username 작성자의 id를 넣는다.
+// @param theme 다양하게 적용할 수 있다. source repo의 README.md에서 참조
+// @param column 화면에 보여질 트로피 열의 수다. 총 7개일경우 3개씩이면 3줄이된다.
+[출처] 깃허브Github - (7) - 프로필에 트로피 꾸미기|작성자 길상
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
