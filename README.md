@@ -34,10 +34,7 @@
   </tr>
 </table>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BaxDailyGit&theme=flat&column=10)](https://github.com/ryo-ma/github-profile-trophy)
-
-// @param username 작성자의 id를 넣는다.
-// @param theme 다양하게 적용할 수 있다. source repo의 README.md에서 참조
+[![trophy](https://github-profile-trophy.vercel.app/?username=BaxDailyGit&theme=algolia&column=10&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
