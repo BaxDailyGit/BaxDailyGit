@@ -3,8 +3,7 @@
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
 </big></big>
 
-
-<table>
+<table width="100%">
   <tr>
     <td valign="top" width="60%">
       <div align=left>  
