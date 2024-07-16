@@ -6,7 +6,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="65%">
+    <td valign="top" width="60%">
       <div align=left>  
 24년 2월에 학부를 졸업하였습니다.<br>
 보충역으로 산업기능요원을 희망합니다(구직중)<br>
@@ -16,7 +16,7 @@
 🗂️Portfolio: https://baxdailygit.github.io/landing-page/pages<br>
       </div>
     </td>
-    <td valign="top" width="35%">
+    <td valign="top" width="40%">
       <div align=right>  
   Language & Framework<br>
   <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/>
