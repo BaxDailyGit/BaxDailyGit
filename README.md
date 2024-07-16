@@ -1,10 +1,12 @@
 <big><big>
-   **안녕하세요!**
+   **안녕하세요! 백엔드 개발자 백승진입니다.**
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
 </big></big>
+
+
 <table>
   <tr>
-    <th>
+    <td valign="top" width="33%">
       <div align=left>  
 24년 2월에 학부를 졸업하였습니다.<br>
 보충역으로 산업기능요원을 희망합니다(구직중)<br>
@@ -13,8 +15,8 @@
 📄Resume: https://baxdailygit.github.io/resume/<br>
 🗂️Portfolio: https://baxdailygit.github.io/landing-page/pages<br>
       </div>
-    </th>
-    <th>
+    </td>
+    <td valign="top" width="33%">
       <div align=right>  
   Language & Framework<br>
   <img alt="Springboot 3.2.5" src ="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/>
@@ -29,7 +31,7 @@
   <img alt="Amazon RDS" src ="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
   <img alt="Amazon S3" src ="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>      
       </div>
-    </th>
+    </td>
   </tr>
 </table>
 
