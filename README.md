@@ -35,8 +35,18 @@
         </p>
       </div>
     </td>
+    <td>
+      <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/lines/BaxDailyGit?pet-id=606339372676651991"
+    width="200"
+    height="110"
+  />
+</a>
+    </td>
   </tr>
 </table>
+</div>
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
