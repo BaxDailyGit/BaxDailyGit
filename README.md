@@ -41,7 +41,6 @@
     </p>
   </div>
 </td>
-
     <td>
       <a href="https://github.com/devxb/gitanimals">
   <img
