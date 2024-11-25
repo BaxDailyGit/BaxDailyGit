@@ -13,7 +13,7 @@
             📩 Email: <a href="mailto:tmdwls8387@ajou.ac.kr">tmdwls8387@ajou.ac.kr</a><br>
             ✍️ Blog: <a href="https://baxdailygit.github.io">https://baxdailygit.github.io</a><br>
             📄 Resume: <a href="https://baxdailygit.github.io/resume/">https://baxdailygit.github.io/resume/</a><br>
-            🗂️ Portfolio: <a href="https://baxdailygit.github.io/landing-page/pages">https://baxdailygit.github.io/landing-page/pages</a><br>
+<!--             🗂️ Portfolio: <a href="https://baxdailygit.github.io/landing-page/pages">https://baxdailygit.github.io/landing-page/pages</a><br> -->
           </p>
         </div>
       </td>
