@@ -1,6 +1,6 @@
 <big><big>
    **안녕하세요! 백엔드 개발자 백승진입니다.**
-  <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
+  <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=transparent&labelColor=transparent" align="right"/></a>
 </big></big>
 
 
