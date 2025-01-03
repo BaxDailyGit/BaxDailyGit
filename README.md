@@ -80,13 +80,13 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=transparent&icon_color=2569d9&text_color=6495ED&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=baxdailygit&show_icons=true&theme=material-palenight&hide_border=true&bg_color=0d1117&icon_color=2569d9&text_color=fff&title_color=2569d9&count_private=true" width=59% /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=baxdailygit&show_icons=true&theme=material-palenight&hide_border=true&bg_color=transparent&icon_color=2569d9&text_color=6495ED&title_color=2569d9&count_private=true" width=59% /></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=0d1117&hide_border=true&line=2569d9&color=2569d9" width=99%/></a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=transparent&hide_border=true&line=2569d9&color=2569d9&point=5DADE2" width=99%/></a>
 
 <img
   src="https://render.gitanimals.org/lines/BaxDailyGit?pet-id=606339372676651991"
