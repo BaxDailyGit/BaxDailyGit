@@ -91,6 +91,6 @@
 <img
   src="https://render.gitanimals.org/lines/BaxDailyGit?pet-id=606339372676651991"
   width="199"
-/><img src="https://ghchart.rshah.org/1922e9/baxdailygit" width=799/>
+/><img src="https://ghchart.rshah.org/1922e9/baxdailygit" width=699/>
 
 
