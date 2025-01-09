@@ -21,11 +21,12 @@
 <tr>
 <td width="1000">
   <p>
-    주력: 자프링
+    주력: 자바, 스프링
   </p>
 </td>
 </tr>
 </table>
+
 
 
 <table>
@@ -35,24 +36,60 @@
         Framework<br>
         <img alt="Springboot 3.2.5" src="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/><br>
         <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?&style=plastic-square&logo=fastapi&logoColor=white"/><br>
-        ORM<br>
-        <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/><br>
+        <br>
       </div>
     </td>
+    <td width="200">
+      <div>
+        ORM<br>
+        <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/SQLAlchemy-4584b6?style=plastic-square&logo=SQLAlchemy&logoColor=white"/><br>
+        <br>
+      </div>
+    </td>
+    <td width="200">
+      <div>
+        Security<br>
+        <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring security&logoColor=white"/><br>
+        <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/><br>
+        <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/><br>
+      </div>
+    </td>   
     <td width="200">
       <div>
         Database<br>
         <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic-square&logo=MySQL&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/H2-4479A1?style=plastic-square&logoColor=white"/><br>
         <br>
-        <br>
       </div>
     </td>
     <td width="200">
       <div>
-        Containerization<br>
+        Cache<br>
+        <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=plastic-square&logo=redis&logoColor=white"/><br>
+        <br>
+        <br>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="200">
+      <div>
+        Web Server<br>
+        <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?&style=plastic-square&logo=nginx&logoColor=white"/><br>
+        <br>
+        <br>
+        <br>
+      </div>
+    </td> 
+    <td width="200">
+      <div>
+        Container<br>
         <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic-square&logo=docker&logoColor=white"/><br>
-        <img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
+        <br>
         <br>
         <br>
       </div>
@@ -60,21 +97,31 @@
     <td width="200">
       <div>
         AWS<br>
-        <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/><br>
+        <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
         <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/><br>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
+        <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
         <img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
       </div>
-    </td>        
+    </td>
     <td width="200">
       <div>
-        Security<br>
-        <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring security&logoColor=white"/><br>
-        <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/><br>
-        <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/><br>
+        배포 자동화<br>
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github actions&logoColor=white"/><br>
+        <img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
+        <img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
+      </div>
+    </td>
+    <td width="200">
+      <div>
+        Monitoring<br>
+        <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?&style=plastic-square&logo=grafana&logoColor=white"/><br>
+        <br>
+        <br>
         <br>
       </div>
-    </td>      
+    </td>
   </tr>
 </table>
 
