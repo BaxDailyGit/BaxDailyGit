@@ -82,7 +82,6 @@
         <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?&style=plastic-square&logo=nginx&logoColor=white"/><br>
         <br>
         <br>
-        <br>
       </div>
     </td> 
     <td width="200">
@@ -91,17 +90,16 @@
         <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic-square&logo=docker&logoColor=white"/><br>
         <br>
         <br>
-        <br>
       </div>
     </td>      
     <td width="200">
       <div>
         AWS<br>
         <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
-        <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/><br>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
+        <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
         <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
         <img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
       </div>
     </td>
     <td width="200">
@@ -109,7 +107,7 @@
         배포 자동화<br>
         <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github actions&logoColor=white"/><br>
         <img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/>
         <img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
       </div>
     </td>
@@ -117,7 +115,6 @@
       <div>
         Monitoring<br>
         <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?&style=plastic-square&logo=grafana&logoColor=white"/><br>
-        <br>
         <br>
         <br>
       </div>
