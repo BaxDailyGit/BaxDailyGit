@@ -8,7 +8,6 @@
 <tr>
 <td width="1000">
   <p>
-    24년 2월에 학부를 졸업하였습니다.<br>
     📩 Email: <a href="mailto:tmdwls8387@ajou.ac.kr">tmdwls8387@ajou.ac.kr</a><br>
     ✍️ Blog: <a href="https://baxdailygit.github.io">https://baxdailygit.github.io</a><br>
 <!--📄 Resume: <a href="https://baxdailygit.github.io/resume/">https://baxdailygit.github.io/resume/</a><br> -->
