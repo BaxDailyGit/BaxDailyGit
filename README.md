@@ -1,7 +1,7 @@
-<big><big>
-   **안녕하세요! 백엔드 개발자 백승진입니다.**
+<h2><big>
+   SeungJin Baek
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
-</big></big>
+</big></h2>
 
 
 <table>
@@ -16,18 +16,16 @@
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<td width="1000">
-  <p>
-    주력: 자바, 스프링
-  </p>
-</td>
-</tr>
-</table>
 
+<h4>Project</h4>
+- 
+- 
 
+<h4>Blog Posts</h4>
+- 
+- 
 
+<h4>Technologies I've Experienced</h4>
 <table>
   <tr>
     <td width="200">
@@ -56,7 +54,7 @@
     </td>   
     <td width="200">
       <div>
-        Database<br>
+        RDBMS<br>
         <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic-square&logo=MySQL&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/H2-4479A1?style=plastic-square&logoColor=white"/><br>
         <br>
@@ -64,7 +62,7 @@
     </td>
     <td width="200">
       <div>
-        Cache<br>
+        Memory Cache<br>
         <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=plastic-square&logo=redis&logoColor=white"/><br>
         <br>
         <br>
@@ -123,13 +121,13 @@
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=transparent&hide_border=true&icon_color=2569d9&text_color=6495ED&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=donut&show_icons=true&theme=transparent&hide_border=true&icon_color=2569d9&text_color=ffffff&title_color=ffffff&count_private=true&exclude_repo=Face-Transfer-Application" width=40% /></a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=baxdailygit&show_icons=true&theme=transparent&hide_border=true&icon_color=2569d9&text_color=6495ED&title_color=2569d9&count_private=true" width=59% /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=baxdailygit&show_icons=true&theme=transparent&hide_border=true&icon_color=2569d9&text_color=ffffff&title_color=ffffff&count_private=true" width=59% /></a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=transparent&hide_border=true&line=2569d9&color=2569d9&point=5DADE2" width=99%/></a>
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=transparent&hide_border=true&line=2569d9&color=ffffff&point=5DADE2" width=99%/></a>
 
 <img
   src="https://render.gitanimals.org/lines/BaxDailyGit?pet-id=606339372676651991"
