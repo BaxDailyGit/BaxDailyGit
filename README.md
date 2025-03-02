@@ -129,9 +129,8 @@
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=baxdailygit&theme=react-dark&bg_color=transparent&hide_border=true&line=2569d9&color=ffffff&point=5DADE2" width=99%/></a>
 
-<img
-  src="https://render.gitanimals.org/lines/BaxDailyGit?pet-id=606339372676651991"
-  width="160"
+<img src="https://render.gitanimals.org/lines/BaxDailyGit?pet-id=606339372676651991"
+  width="159"
   height="100"
 /><img src="https://ghchart.rshah.org/1922e9/baxdailygit" width=639/>
 
