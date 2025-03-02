@@ -1,8 +1,8 @@
 <h2><big>
-   SeungJin Baek
+   Hi, I'm Seungjin Baek 👋
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
 </big></h2>
-
+<h4>Backend Engineer interested in AI solutions</h4>
 
 <table>
 <tr>
@@ -17,15 +17,15 @@
 </tr>
 </table>
 
-<h4>Project</h4>
+<h3>Project</h3>
 - 
 - 
 
-<h4>Blog Posts</h4>
+<h3>Blog Posts</h3>
 - 
 - 
 
-<h4>Technologies I've Experienced</h4>
+<h3>Tools I've Experienced</h3>
 <table>
   <tr>
     <td width="200">
