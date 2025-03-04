@@ -3,23 +3,18 @@
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
 </big></h2>
 <h4>Backend Engineer interested in AI solutions</h4>
-
-<table>
-<tr>
-<td width="1000">
-  <p>
     📩 Email: <a href="mailto:tmdwls8387@ajou.ac.kr">tmdwls8387@ajou.ac.kr</a><br>
     ✍️ Blog: <a href="https://baxdailygit.github.io">https://baxdailygit.github.io</a><br>
 <!--📄 Resume: <a href="https://baxdailygit.github.io/resume/">https://baxdailygit.github.io/resume/</a><br> -->
 <!--🗂️ Portfolio: <a href="https://baxdailygit.github.io/landing-page/pages">https://baxdailygit.github.io/landing-page/pages</a><br> -->
-  </p>
-</td>
-</tr>
-</table>
+
+<br>
 
 <h3>Project</h3>
 - 
 - 
+
+<br>
 
 <h3>Blog Posts</h3>
 - 
