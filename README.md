@@ -57,7 +57,7 @@
     </td>
     <td width="200">
       <div>
-        Memory Cache<br>
+        In-Memory<br>
         <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=plastic-square&logo=redis&logoColor=white"/><br>
         <br>
         <br>
