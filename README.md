@@ -10,15 +10,6 @@
 
 <br>
 
-<h3>Project</h3>
-- 
-- 
-
-<br>
-
-<h3>Blog Posts</h3>
-- 
-- 
 
 <details><summary><h3>Tools I've Experienced</h3></summary>
 <table>
@@ -114,7 +105,17 @@
 </table>
 </details>
 
+<h3>Project</h3>
+- 
+- 
 
+<br>
+
+<h3>Blog Posts</h3>
+- 
+- 
+
+<br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=compact&show_icons=true&theme=transparent&hide_border=true&icon_color=2569d9&text_color=2569d9&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=45% /></a>
