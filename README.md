@@ -20,7 +20,7 @@
 - 
 - 
 
-<h3>Tools I've Experienced</h3>
+<details><summary><h3>Tools I've Experienced</h3></summary>
 <table>
   <tr>
     <td width="200">
@@ -65,7 +65,6 @@
     </td>
   </tr>
 </table>
-
 <table>
   <tr>
     <td width="200">
@@ -113,6 +112,8 @@
     </td>
   </tr>
 </table>
+</details>
+
 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
