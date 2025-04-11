@@ -25,7 +25,7 @@
     <td width="200">
       <div>
         ORM<br>
-        <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring Data JPA&logoColor=white"/><br>
+        <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring-Data-JPA&logoColor=white"/><br>
         <img src="https://img.shields.io/badge/SQLAlchemy-4584b6?style=plastic-square&logo=SQLAlchemy&logoColor=white"/><br>
         <br>
       </div>
@@ -33,7 +33,7 @@
     <td width="200">
       <div>
         Security<br>
-        <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring security&logoColor=white"/><br>
+        <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring-security&logoColor=white"/><br>
         <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/><br>
         <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/><br>
       </div>
@@ -78,8 +78,8 @@
       <div>
         AWS<br>
         <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/><br>
-        <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon RDS&logoColor=white"/>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/><br>
+        <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon-RDS&logoColor=white"/>
         <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
         <img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
       </div>
@@ -87,9 +87,9 @@
     <td width="200">
       <div>
         배포 자동화<br>
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github actions&logoColor=white"/><br>
+        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github-actions&logoColor=white"/><br>
         <img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon S3&logoColor=white"/>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/>
         <img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
       </div>
     </td>
