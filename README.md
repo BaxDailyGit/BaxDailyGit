@@ -76,16 +76,6 @@
     </td>      
     <td width="200">
       <div>
-        AWS<br>
-        <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/><br>
-        <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon-RDS&logoColor=white"/>
-        <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-        <img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-      </div>
-    </td>
-    <td width="200">
-      <div>
         배포 자동화<br>
         <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github-actions&logoColor=white"/><br>
         <img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
@@ -99,6 +89,53 @@
         <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?&style=plastic-square&logo=grafana&logoColor=white"/><br>
         <br>
         <br>
+      </div>
+    </td>
+    <td width="200">
+      <div>
+        그외 AWS service<br>
+        <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
+        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/><br>
+        <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon-RDS&logoColor=white"/>
+        <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+        <img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td width="200">
+      <div>
+         Data<br>
+         glue<br>
+         Athena<br>
+         quicksight<br>
+      </div>
+    </td> 
+    <td width="200">
+      <div>
+         Langchain Products<br>
+         langchain<br>
+         langgraph<br>
+         langsmith<br>
+      </div>
+    </td>      
+    <td width="200">
+      <div>
+         Vector Store<br>
+         pinecone<br>
+      </div>
+    </td>
+    <td width="200">
+      <div>
+      </div>
+    </td>
+    <td width="200">
+      <div>
+         프론트엔드<br>
+         react js + vite<br>
       </div>
     </td>
   </tr>
