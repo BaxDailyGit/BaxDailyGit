@@ -2,7 +2,7 @@
    Hi, I'm Seungjin Baek 👋
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
 </big></h2>
-<h4>Backend Engineer interested in AI solutions</h4>
+<h4>SW Engineer interested in AI solutions</h4>
     📩 Email: <a href="mailto:tmdwls8387@ajou.ac.kr">tmdwls8387@ajou.ac.kr</a><br>
     ✍️ Blog: <a href="https://baxdailygit.github.io">https://baxdailygit.github.io</a><br>
 <!--📄 Resume: <a href="https://baxdailygit.github.io/resume/">https://baxdailygit.github.io/resume/</a><br> -->
@@ -16,39 +16,38 @@
   <tr>
     <td width="200">
       <div>
-        Framework<br>
-        <img alt="Springboot 3.2.5" src="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/><br>
-        <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?&style=plastic-square&logo=fastapi&logoColor=white"/><br>
+        • Framework<br>
+        &nbsp;&ensp;<img alt="Springboot 3.2.5" src="https://img.shields.io/badge/Springboot-6DB33F.svg?&style=plastic-square&logo=springboot&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571.svg?&style=plastic-square&logo=fastapi&logoColor=white"/><br>
         <br>
       </div>
     </td>
     <td width="200">
       <div>
-        ORM<br>
-        <img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring-Data-JPA&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/SQLAlchemy-4584b6?style=plastic-square&logo=SQLAlchemy&logoColor=white"/><br>
+        • ORM<br>
+        &nbsp;&ensp;<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=plastic-square&logo=Spring-Data-JPA&logoColor=white"/><br>
+        &nbsp;&ensp;<img src="https://img.shields.io/badge/SQLAlchemy-4584b6?style=plastic-square&logo=SQLAlchemy&logoColor=white"/><br>
         <br>
       </div>
     </td>
     <td width="200">
       <div>
-        Security<br>
-        <img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring-security&logoColor=white"/><br>
-        <img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/><br>
-        <img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/><br>
+        • Security<br>
+        &nbsp;&ensp;<img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring-security&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/>&nbsp;<img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/<br>
       </div>
     </td>   
     <td width="200">
       <div>
-        RDBMS<br>
-        <img src="https://img.shields.io/badge/MySQL-00758F?style=plastic-square&logo=MySQL&logoColor=white"/><br>
-        <img src="https://img.shields.io/badge/H2-4479A1?style=plastic-square&logoColor=white"/><br>
+        • RDBMS<br>
+        &nbsp;&ensp;<img src="https://img.shields.io/badge/MySQL-00758F?style=plastic-square&logo=MySQL&logoColor=white"/><br>
+        &nbsp;&ensp;<img src="https://img.shields.io/badge/H2-4479A1?style=plastic-square&logoColor=white"/><br>
         <br>
       </div>
     </td>
     <td width="200">
       <div>
-        In-Memory<br>
+        • In-Memory<br>
         <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=plastic-square&logo=redis&logoColor=white"/><br>
         <br>
         <br>
@@ -60,45 +59,42 @@
   <tr>
     <td width="200">
       <div>
-        Web Server<br>
-        <img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?&style=plastic-square&logo=nginx&logoColor=white"/><br>
+        • Proxy Server<br>
+        &nbsp;&ensp;<img alt="Nginx" src="https://img.shields.io/badge/Nginx-009639.svg?&style=plastic-square&logo=nginx&logoColor=white"/><br>
         <br>
         <br>
       </div>
     </td> 
     <td width="200">
       <div>
-        Container<br>
-        <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic-square&logo=docker&logoColor=white"/><br>
+        • Container<br>
+        &nbsp;&ensp;<img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?&style=plastic-square&logo=docker&logoColor=white"/><br>
         <br>
         <br>
       </div>
     </td>      
     <td width="200">
       <div>
-        배포 자동화<br>
-        <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github-actions&logoColor=white"/><br>
-        <img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/>
-        <img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
+        • 배포 자동화<br>
+        &nbsp;&ensp;<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github-actions&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/>&nbsp;<img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
       </div>
     </td>
     <td width="200">
       <div>
-        Monitoring<br>
-        <img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?&style=plastic-square&logo=grafana&logoColor=white"/><br>
+        • Monitoring<br>
+        &nbsp;&ensp;<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?&style=plastic-square&logo=grafana&logoColor=white"/><br>
         <br>
         <br>
       </div>
     </td>
     <td width="200">
       <div>
-        그외 AWS service<br>
-        <img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/>
-        <img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/><br>
-        <img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon-RDS&logoColor=white"/>
-        <img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-        <img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+        • Other AWS service<br>
+        &nbsp;&ensp;<img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon-RDS&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
       </div>
     </td>
   </tr>
@@ -108,34 +104,42 @@
   <tr>
     <td width="200">
       <div>
-         Data<br>
-         glue<br>
-         Athena<br>
-         quicksight<br>
+         • Data<br>
+         &nbsp;&ensp;glue<br>
+         &nbsp;&ensp;Athena<br>
+         &nbsp;&ensp;quicksight<br>
       </div>
     </td> 
     <td width="200">
       <div>
-         Langchain Products<br>
-         langchain<br>
-         langgraph<br>
-         langsmith<br>
+         • Langchain Products<br>
+         &nbsp;&ensp;langchain<br>
+         &nbsp;&ensp;langgraph<br>
+         &nbsp;&ensp;langsmith<br>
       </div>
     </td>      
     <td width="200">
       <div>
-         Vector Store<br>
-         pinecone<br>
+         • Vector Store<br>
+         &nbsp;&ensp;pinecone<br>
+         <br>
+         <br>
       </div>
     </td>
     <td width="200">
       <div>
+         • ML model serving<br>
+         &nbsp;&ensp;<img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+         <br>
+         <br>
       </div>
     </td>
     <td width="200">
       <div>
-         프론트엔드<br>
-         react js + vite<br>
+         • Frontend<br>
+         &nbsp;&ensp;react js + vite<br>
+         <br>
+         <br>
       </div>
     </td>
   </tr>
