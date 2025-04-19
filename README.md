@@ -34,7 +34,7 @@
       <div>
         • Security<br>
         &nbsp;&ensp;<img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring-security&logoColor=white"/><br>
-        &nbsp;&ensp;<img alt="JWT" src="https://img.shields.io/badge/JWT-000000.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/>&nbsp;<img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/<br>
+        &nbsp;&ensp;<img alt="JWT" src="https://img.shields.io/badge/JWT-141414.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/>&nbsp;<img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/<br>
       </div>
     </td>   
     <td width="200">
@@ -105,23 +105,23 @@
     <td width="200">
       <div>
          • Data<br>
-         &nbsp;&ensp;glue<br>
-         &nbsp;&ensp;Athena<br>
-         &nbsp;&ensp;quicksight<br>
+         &nbsp;&ensp;<img alt="Amazon Glue" src="https://img.shields.io/badge/Glue-8C4FFF.svg?&style=plastic-square&logo=amazonglue&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="Amazon Athena" src="https://img.shields.io/badge/Athena-8C4FFF.svg?&style=plastic-square&logo=amazonathena&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="Amazon QuickSight" src="https://img.shields.io/badge/QuickSight-8C4FFF.svg?&style=plastic-square&logo=amazonquicksight&logoColor=white"/><br>
       </div>
     </td> 
     <td width="200">
       <div>
          • Langchain Products<br>
-         &nbsp;&ensp;langchain<br>
-         &nbsp;&ensp;langgraph<br>
-         &nbsp;&ensp;langsmith<br>
+         &nbsp;&ensp;<img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=plastic-square&logo=langchain&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="langgraph" src="https://img.shields.io/badge/langgraph-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="langsmith" src="https://img.shields.io/badge/langsmith-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>
       </div>
     </td>      
     <td width="200">
       <div>
          • Vector Store<br>
-         &nbsp;&ensp;pinecone<br>
+         &nbsp;&ensp;<img alt="pinecone" src="https://img.shields.io/badge/pinecone-141414.svg?&style=plastic-square&logo=pinecone&logoColor=white"/><br>
          <br>
          <br>
       </div>
@@ -137,8 +137,8 @@
     <td width="200">
       <div>
          • Frontend<br>
-         &nbsp;&ensp;react js + vite<br>
-         <br>
+         &nbsp;&ensp;<img alt="React JS" src="https://img.shields.io/badge/React JS-61DAFB.svg?&style=plastic-square&logo=React&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=plastic-square&logo=Vite&logoColor=white"/><br>
          <br>
       </div>
     </td>
