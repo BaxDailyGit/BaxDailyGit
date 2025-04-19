@@ -11,7 +11,7 @@
 <br>
 
 
-<details><summary><h3>Tools I've Experienced</h3></summary>
+<details><summary><h3>🔧Tools I've Experienced</h3></summary>
 <table>
   <tr>
     <td width="200">
@@ -147,13 +147,13 @@
 </table>
 </details>
 
-<h3>Project</h3>
+<h3>💻Project</h3>
 - 
 - 
 
 <br>
 
-<h3>Blog Posts</h3>
+<h3>✍️Blog Posts</h3>
 - 
 - 
 
