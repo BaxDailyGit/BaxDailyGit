@@ -34,7 +34,8 @@
       <div>
         • Security<br>
         &nbsp;&ensp;<img alt="Spring Security" src="https://img.shields.io/badge/Spring Security-6DB33F.svg?&style=plastic-square&logo=spring-security&logoColor=white"/><br>
-        &nbsp;&ensp;<img alt="JWT" src="https://img.shields.io/badge/JWT-141414.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/>&nbsp;<img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/<br>
+        &nbsp;&ensp;<img alt="JWT" src="https://img.shields.io/badge/JWT-141414.svg?&style=plastic-square&logo=jsonwebtokens&logoColor=white"/>&nbsp;<img alt="OAuth2" src="https://img.shields.io/badge/OAuth2-626262.svg?&style=plastic-square&logo=oauth&logoColor=white"/><br>
+         <br>
       </div>
     </td>   
     <td width="200">
