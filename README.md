@@ -59,7 +59,7 @@
     <td width="200">
       <div>
         • In-Memory<br>
-        <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=plastic-square&logo=redis&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?&style=plastic-square&logo=redis&logoColor=white"/><br>
         <br>
         <br>
       </div>
