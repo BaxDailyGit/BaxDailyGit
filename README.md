@@ -8,6 +8,19 @@
 <!--📄 Resume: <a href="https://baxdailygit.github.io/resume/">https://baxdailygit.github.io/resume/</a><br> -->
 <!--🗂️ Portfolio: <a href="https://baxdailygit.github.io/landing-page/pages">https://baxdailygit.github.io/landing-page/pages</a><br> -->
 
+
+<h3>💻Project</h3>
+- 
+- 
+
+<br>
+
+<h3>✍️Blog Posts</h3>
+- 
+- 
+
+
+
 <h3>🔧Tools I've Experienced</h3>
 <table>
   <tr>
@@ -142,17 +155,6 @@
     </td>
   </tr>
 </table>
-
-
-<h3>💻Project</h3>
-- 
-- 
-
-<br>
-
-<h3>✍️Blog Posts</h3>
-- 
-- 
 
 <br>
 
