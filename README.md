@@ -148,7 +148,7 @@
     <td width="200">
       <div>
          • Frontend<br>
-         &nbsp;&ensp;<img alt="React JS" src="https://img.shields.io/badge/React JS-61DAFB.svg?&style=plastic-square&logo=React&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="React JS" src="https://img.shields.io/badge/React JS-56C5F7.svg?&style=plastic-square&logo=React&logoColor=white"/><br>
          &nbsp;&ensp;<img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=plastic-square&logo=Vite&logoColor=white"/><br>
          <br>
       </div>
