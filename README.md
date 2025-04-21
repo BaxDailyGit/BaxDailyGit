@@ -8,7 +8,7 @@
 <!--📄 Resume: <a href="https://baxdailygit.github.io/resume/">https://baxdailygit.github.io/resume/</a><br> -->
 <!--🗂️ Portfolio: <a href="https://baxdailygit.github.io/landing-page/pages">https://baxdailygit.github.io/landing-page/pages</a><br> -->
 
-<details><summary><h3>🔧Tools I've Experienced</h3></summary>
+<h3>🔧Tools I've Experienced</h3>
 <table>
   <tr>
     <td width="200">
@@ -142,7 +142,7 @@
     </td>
   </tr>
 </table>
-</details>
+
 
 <h3>💻Project</h3>
 - 
