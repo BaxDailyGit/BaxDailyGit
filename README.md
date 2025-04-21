@@ -156,8 +156,6 @@
   </tr>
 </table>
 
-<br>
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=compact&show_icons=true&theme=transparent&hide_border=true&icon_color=2569d9&text_color=2569d9&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=45% /></a>
 
