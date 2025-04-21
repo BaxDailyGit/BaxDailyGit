@@ -86,7 +86,7 @@
     </td>      
     <td width="200">
       <div>
-        • 배포 자동화<br>
+        • Auto Deploy<br>
         &nbsp;&ensp;<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github-actions&logoColor=white"/><br>
         &nbsp;&ensp;<img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
         &nbsp;&ensp;<img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/>&nbsp;<img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
