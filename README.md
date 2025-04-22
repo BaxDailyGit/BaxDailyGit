@@ -3,6 +3,8 @@
   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
 </big></h2>
 
+SW engineer interested in cloud infrastructure & data pipeline optimization for AI applications.
+
 <!--     📩 Email: <a href="mailto:tmdwls8387@ajou.ac.kr">tmdwls8387@ajou.ac.kr</a><br>
     ✍️ Blog: <a href="https://baxdailygit.github.io">https://baxdailygit.github.io</a><br> -->
 <!--📄 Resume: <a href="https://baxdailygit.github.io/resume/">https://baxdailygit.github.io/resume/</a><br> -->
@@ -24,7 +26,7 @@
 <br>
 
 
-## 🔧Tools I've Experienced
+### 🔧Tools I've Experienced 
 <table>
   <tr>
     <td width="200">
