@@ -1,6 +1,6 @@
 <h2><big>
    Hi, I'm Seungjin Baek 👋
-  <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&style=for-the-badge&color=0d1117&labelColor=0d1117" align="right"/></a>
+   <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&label=HITS&color=05080b&labelColor=05080b"  align="right"/></a>
 </big></h2>
 
 SW engineer interested in cloud infrastructure & data pipeline optimization for AI applications.
