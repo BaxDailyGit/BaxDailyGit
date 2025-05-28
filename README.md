@@ -93,7 +93,7 @@ Aspiring full-stack data engineer with a broad skill set, interested in cloud in
       <div>
         • Auto Deploy<br>
         &nbsp;&ensp;<img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub Actions-2088FF.svg?&style=plastic-square&logo=github-actions&logoColor=white"/><br>
-        &nbsp;&ensp;<img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="AWS CodeDeploy" src="https://img.shields.io/badge/CodeDeploy-FF9900.svg?&style=plastic-square&logo=amazoncodedeploy&logoColor=white"/><br>
         &nbsp;&ensp;<img alt="Amazon S3" src="https://img.shields.io/badge/S3-569A31.svg?&style=plastic-square&logo=Amazon-S3&logoColor=white"/>&nbsp;<img alt="Amazon ECR" src="https://img.shields.io/badge/ECR-FF9900.svg?&style=plastic-square&logo=amazonecr&logoColor=white"/><br>
       </div>
     </td>
@@ -101,8 +101,8 @@ Aspiring full-stack data engineer with a broad skill set, interested in cloud in
       <div>
         • Monitoring<br>
         &nbsp;&ensp;<img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?&style=plastic-square&logo=grafana&logoColor=white"/><br>
-        <br>
-        <br>
+        &nbsp;&ensp;<img alt="Prometheus" src="https://img.shields.io/badge/Prometheus-E6522C.svg?&style=plastic-square&logo=prometheus&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="CloudWatch" src="https://img.shields.io/badge/CloudWatch-FF4F8B.svg?&style=plastic-square&logo=amazon-cloudwatch&logoColor=white"/><br>
       </div>
     </td>
     <td width="200">
@@ -110,7 +110,7 @@ Aspiring full-stack data engineer with a broad skill set, interested in cloud in
         • Other AWS service<br>
         &nbsp;&ensp;<img alt="Amazon EC2" src="https://img.shields.io/badge/EC2-FF9900.svg?&style=plastic-square&logo=amazonec2&logoColor=white"/><br>
         &nbsp;&ensp;<img alt="Amazon RDS" src="https://img.shields.io/badge/RDS-527FFF.svg?&style=plastic-square&logo=Amazon-RDS&logoColor=white"/><br>
-        &nbsp;&ensp;<img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
+        &nbsp;&ensp;<img alt="Amazon ElastiCache" src="https://img.shields.io/badge/ElastiCache-527FFF.svg?&style=plastic-square&logo=amazon-elasticache&logoColor=white"/><br>
       </div>
     </td>
   </tr>
@@ -129,9 +129,9 @@ Aspiring full-stack data engineer with a broad skill set, interested in cloud in
     <td width="200">
       <div>
          • Langchain Products<br>
-         &nbsp;&ensp;<img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=plastic-square&logo=langchain&logoColor=white"/><br>
-         &nbsp;&ensp;<img alt="langgraph" src="https://img.shields.io/badge/langgraph-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>
-         &nbsp;&ensp;<img alt="langsmith" src="https://img.shields.io/badge/langsmith-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=plastic-square&logo=langchain&logoColor=white"/><br><br><br>
+<!--          &nbsp;&ensp;<img alt="langgraph" src="https://img.shields.io/badge/langgraph-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="langsmith" src="https://img.shields.io/badge/langsmith-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br> -->
       </div>
     </td>      
     <td width="200">
