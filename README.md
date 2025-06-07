@@ -12,21 +12,26 @@ Aspiring full-stack data engineer with a broad skill set, interested in cloud in
 
 <!--<p>$\bf{\large{\color{#6580dd}SW Engineer interested in AI solutions}}$</p>-->
 
-
+<!--
 ## 💻Project
 - 
 - 
+-->
 
 <br>
 
-✍️Blog Posts
-- 
-- 
+## ✍️Blog Posts
+- [AI 기반 영유아 피부 질환 진단 서비스 개발 과정 회고](https://baxdailygit.github.io/projects/Reflections-on-the-Development-Process-of-an-AI-Powered-Infant-and-Toddler-Skin-Disease-Diagnosis-Service)
+- [데이터 분석 파이프라인 구축 과정 회고](https://baxdailygit.github.io/projects/mochicare-reflecting-on-data-pipeline)
 
 <br>
 
 
-### 🔧Tools I've Experienced 
+
+<details>
+<summary><h2>🔧Tools I've Experienced</h2></summary>
+
+## Tools I've Experienced 
 <table>
   <tr>
     <td width="200">
@@ -160,6 +165,13 @@ Aspiring full-stack data engineer with a broad skill set, interested in cloud in
     </td>
   </tr>
 </table>
+
+</details>
+
+
+
+
+
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=baxdailygit&layout=compact&show_icons=true&theme=transparent&hide_border=true&icon_color=2569d9&text_color=2569d9&title_color=2569d9&count_private=true&exclude_repo=Face-Transfer-Application" width=45% /></a>
