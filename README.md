@@ -34,7 +34,6 @@ Aspiring full-stack data engineer with a broad skill set, interested in cloud in
 <details>
 <summary><h2>🔧Tools I've Experienced</h2></summary>
 
-## Tools I've Experienced 
 <table>
   <tr>
     <td width="200">
