@@ -3,7 +3,6 @@
    <a href="https://hits.sh/github.com/BaxDailyGit/"><img alt="Hits" src="https://hits.sh/github.com/BaxDailyGit.svg?view=today-total&label=HITS&color=030406&labelColor=030406"  align="right"/></a>
 </big></h2>
 
-Aspiring full-stack data engineer with a broad skill set, interested in cloud infrastructure and data pipeline optimization for AI applications.
 
 <!--     📩 Email: <a href="mailto:tmdwls8387@ajou.ac.kr">tmdwls8387@ajou.ac.kr</a><br>
     ✍️ Blog: <a href="https://baxdailygit.github.io">https://baxdailygit.github.io</a><br> -->
