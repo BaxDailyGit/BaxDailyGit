@@ -141,9 +141,8 @@
     <td width="200">
       <div>
          • Langchain Products<br>
-         &nbsp;&ensp;<img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=plastic-square&logo=langchain&logoColor=white"/><br><br><br>
-<!--          &nbsp;&ensp;<img alt="langgraph" src="https://img.shields.io/badge/langgraph-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>
-         &nbsp;&ensp;<img alt="langsmith" src="https://img.shields.io/badge/langsmith-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br> -->
+         &nbsp;&ensp;<img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=plastic-square&logo=langchain&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="langsmith" src="https://img.shields.io/badge/langsmith-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br><br>
       </div>
     </td>      
     <td width="200">
