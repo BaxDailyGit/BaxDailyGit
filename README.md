@@ -133,9 +133,10 @@
     <td width="200">
       <div>
          • Data<br>
-         &nbsp;&ensp;<img alt="Amazon Glue" src="https://img.shields.io/badge/Glue-8C4FFF.svg?&style=plastic-square&logo=amazonglue&logoColor=white"/><br>
-         &nbsp;&ensp;<img alt="Amazon Athena" src="https://img.shields.io/badge/Athena-8C4FFF.svg?&style=plastic-square&logo=amazonathena&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="Amazon Glue" src="https://img.shields.io/badge/Glue-8C4FFF.svg?&style=plastic-square&logo=amazonglue&logoColor=white"/>
+         <img alt="Amazon Athena" src="https://img.shields.io/badge/Athena-8C4FFF.svg?&style=plastic-square&logo=amazonathena&logoColor=white"/><br>
          &nbsp;&ensp;<img alt="Amazon QuickSight" src="https://img.shields.io/badge/QuickSight-8C4FFF.svg?&style=plastic-square&logo=amazonquicksight&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE.svg?&style=plastic-square&logo=apacheairflow&logoColor=white"/>
       </div>
     </td> 
     <td width="200">
