@@ -69,8 +69,8 @@
       <div>
         • RDBMS<br>
         &nbsp;&ensp;<img src="https://img.shields.io/badge/MySQL-00758F?style=plastic-square&logo=MySQL&logoColor=white"/><br>
+        &nbsp;&ensp;<img src="https://img.shields.io/badge/PostgreSQL-316192?style=plastic-square&logo=PostgreSQL&logoColor=white"/><br>
         &nbsp;&ensp;<img src="https://img.shields.io/badge/H2-4479A1?style=plastic-square&logoColor=white"/><br>
-        <br>
       </div>
     </td>
     <td width="200">
