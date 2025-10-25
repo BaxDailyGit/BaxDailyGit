@@ -28,7 +28,6 @@
 - [모찌케어](https://github.com/BabyCareAI): AI 기반 영유아 피부 질환 진단 서비스
 - [오늘의책](https://github.com/BaxDailyGit/todaysbook): 책 추천 e-커머스 플랫폼
 - [404WeFound](https://github.com/BaxDailyGit/404WeFound): 개발자 커뮤니티
-- [포트폴리오 랜딩 페이지](https://github.com/BaxDailyGit/landing-page?tab=readme-ov-file)
 - [아주파킹](https://github.com/BaxDailyGit/AJouPARKING): 주차장 정보 제공 커뮤니티
 - [가스가드](https://github.com/BaxDailyGit/GasGuard): 가스 누출 탐지 시스템
 - [ARPES 데이터 노이즈 감소 연구](https://github.com/BaxDailyGit/Autoencoder-based-statistical-noise-reduction-for-ARPES-data)
