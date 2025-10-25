@@ -134,7 +134,7 @@
          &nbsp;&ensp;<img alt="Amazon Glue" src="https://img.shields.io/badge/Glue-8C4FFF.svg?&style=plastic-square&logo=amazonglue&logoColor=white"/>
          <img alt="Amazon Athena" src="https://img.shields.io/badge/Athena-8C4FFF.svg?&style=plastic-square&logo=amazonathena&logoColor=white"/><br>
          &nbsp;&ensp;<img alt="Amazon QuickSight" src="https://img.shields.io/badge/QuickSight-8C4FFF.svg?&style=plastic-square&logo=amazonquicksight&logoColor=white"/><br>
-         &nbsp;&ensp;<img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE.svg?&style=plastic-square&logo=apacheairflow&logoColor=white"/>
+         &nbsp;&ensp;<img alt="Airflow" src="https://img.shields.io/badge/Airflow-017CEE.svg?&style=plastic-square&logo=apacheairflow&logoColor=white"/><br><br>
       </div>
     </td> 
     <td width="200">
@@ -142,22 +142,20 @@
          • Langchain Products<br>
          &nbsp;&ensp;<img alt="LangChain" src="https://img.shields.io/badge/langchain-1C3C3C.svg?&style=plastic-square&logo=langchain&logoColor=white"/><br>
          &nbsp;&ensp;<img alt="langSmith" src="https://img.shields.io/badge/langsmith-1C3C3C.svg?&style=plastic-square&logo=langsmith&logoColor=white"/><br>
-         &nbsp;&ensp;<img alt="langGraph" src="https://img.shields.io/badge/langgraph-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="langGraph" src="https://img.shields.io/badge/langgraph-1C3C3C.svg?&style=plastic-square&logo=langgraph&logoColor=white"/><br>&nbsp;&ensp;<img alt="A2A" src="https://img.shields.io/badge/A2A-4A4A4A.svg?&style=plastic-square&logoColor=white"/>&nbsp;<img alt="MCP" src="https://img.shields.io/badge/MCP-4A4A4A.svg?&style=plastic-square&logoColor=white"/><br>
       </div>
     </td>      
     <td width="200">
       <div>
          • Vector Store<br>
-         &nbsp;&ensp;<img alt="pinecone" src="https://img.shields.io/badge/pinecone-141414.svg?&style=plastic-square&logo=pinecone&logoColor=white"/><br>
-         <br>
+         &nbsp;&ensp;<img alt="pinecone" src="https://img.shields.io/badge/pinecone-141414.svg?&style=plastic-square&logo=pinecone&logoColor=white"/><br>&nbsp;&ensp;<img alt="OpenSearch" src="https://img.shields.io/badge/OpenSearch-005EB8.svg?&style=plastic-square&logo=opensearch&logoColor=white"/><br><br>
          <br>
       </div>
     </td>
     <td width="200">
       <div>
          • ML model serving<br>
-         &nbsp;&ensp;<img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>
-         <br>
+         &nbsp;&ensp;<img alt="Amazon SageMaker" src="https://img.shields.io/badge/SageMaker-3a9f88.svg?&style=plastic-square&logo=amazonaws&logoColor=white"/><br>&nbsp;&ensp;<img alt="vLLM" src="https://img.shields.io/badge/vLLM-FF6F00.svg?&style=plastic-square&logoColor=white"/><br><br>
          <br>
       </div>
     </td>
@@ -166,7 +164,7 @@
          • Frontend<br>
          &nbsp;&ensp;<img alt="React JS" src="https://img.shields.io/badge/React JS-56C5F7.svg?&style=plastic-square&logo=React&logoColor=white"/><br>
          &nbsp;&ensp;<img alt="Vite" src="https://img.shields.io/badge/vite-646CFF.svg?&style=plastic-square&logo=Vite&logoColor=white"/><br>
-         &nbsp;&ensp;<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=plastic-square&logo=Streamlit&logoColor=white"/><br>
+         &nbsp;&ensp;<img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-FF4B4B.svg?&style=plastic-square&logo=Streamlit&logoColor=white"/><br><br>
       </div>
     </td>
   </tr>
